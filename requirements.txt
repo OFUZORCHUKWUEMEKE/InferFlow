@@ -1,0 +1,7 @@
+torch>=2.2.0
+transformers>=4.38.0
+fastapi>=0.110.0
+uvicorn[standard]>=0.29.0
+prometheus-client>=0.20.0
+requests>=2.31.0
+numpy>=1.24.0

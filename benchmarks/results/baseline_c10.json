@@ -1,0 +1,22 @@
+{
+  "concurrency": 10,
+  "num_requests": 20,
+  "max_tokens": 20,
+  "total_wall_time_s": 11.797,
+  "throughput_req_per_sec": 1.695,
+  "throughput_tokens_per_sec": 33.908,
+  "latency_ms": {
+    "p50": 5856.59,
+    "p95": 6196.34,
+    "p99": 6196.34,
+    "min": 5573.44,
+    "max": 6196.34,
+    "mean": 5835.49
+  },
+  "ttft_ms": {
+    "p50": 503.21,
+    "p95": 581.73,
+    "mean": 491.33
+  },
+  "per_request_tokens_per_sec_mean": 3.45
+}
